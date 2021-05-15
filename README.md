@@ -1,5 +1,7 @@
 ### Hi there 👋 I'm Hyunwoo Ryu
-I like Biological science & Chemistry & Computer science
+I want to explain biology as chemistry and computer science
+#### 💬 Talk me about
+I love Python! Python is Fun, Cool and Sexy lol 
 <!--
 **Chemical118/Chemical118** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
