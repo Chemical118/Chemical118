@@ -4,7 +4,6 @@ I want to explain biology as chemistry and computer science
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chemical118&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 I love coding with Python  
-It's fun, cool and sexy 😂
 <!--
 **Chemical118/Chemical118** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
