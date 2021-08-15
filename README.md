@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Hyunwoo Ryu
-I want to explain biology as chemistry and computer science  
+I like to explain biology as chemistry and computer science  
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chemical118&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
