@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Hyunwoo Ryu
+### Hi there 👋 I'm Hyunwoo Ryu [![wakatime](https://wakatime.com/badge/user/ed86a5c8-0057-4082-8beb-9f1b804de096.svg)](https://wakatime.com/@ed86a5c8-0057-4082-8beb-9f1b804de096)
 I like to explain biology as chemistry and computer science  
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chemical118&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
